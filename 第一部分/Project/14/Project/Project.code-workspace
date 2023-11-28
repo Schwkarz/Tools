@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "uart1.h": "c",
+            "key.h": "c"
+        }
+    },
+    "extensions": {}
+}
